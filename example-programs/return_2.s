@@ -1,5 +1,6 @@
 
-	.globl _main
+.globl _main
 _main:
-	movl	${}, &eax
-	ret
+movl	${}, &eax
+ret
+	
